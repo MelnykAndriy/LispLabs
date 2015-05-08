@@ -1,2 +1,2 @@
 # LispLabs
-University stuff.
+Lisp university stuff.
